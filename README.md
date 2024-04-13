@@ -1,3 +1,5 @@
+Claro! Aqui está o markdown traduzido para o português:
+
 ```markdown
 <div align="center">
   <img width="450" src="assets/Flask_logo.svg">
@@ -118,3 +120,5 @@ Este código é baseado no código YOLOv8 da Ultralytics e foi modificado por He
  
 Se você quiser saber mais sobre mim, visite meu blog: [henrynavarro.org](https://henrynavarro.org).
 ```
+
+Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
