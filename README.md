@@ -113,6 +113,4 @@ b'{"results": [{"name": "person", "class": 0, "confidence": 0.9490957260131836, 
 
 ## About me and contact
 
-This code is based on the YOLOv8 code from Ultralytics and it has been modified by Henry Navarro
- 
-If you want to know more about me, please visit my blog: [henrynavarro.org](https://henrynavarro.org).
+This code is based on the YOLOv8 code from Ultralytics and it has been modified by Dheiver Santos
